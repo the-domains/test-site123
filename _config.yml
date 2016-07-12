@@ -1,0 +1,28 @@
+name: test site123
+favicon: null
+layout_spectrum: 0.6993008838035166
+typography_spectrum: 0.43904005526565015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8289902477990836
+  lightness: 0.6210208733100444
+  saturation: 0.17280159331858158
+  rhythmicContrast: 0.5840724853333086
+purpose: []
